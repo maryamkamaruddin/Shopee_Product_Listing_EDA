@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Editor
+.vscode/
+.idea/
+
+# Docker volume data
+#postgres_data/
+
+# Env files
+#.env
